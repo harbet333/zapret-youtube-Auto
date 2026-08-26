@@ -9,7 +9,7 @@ https://github.com/Flowseal/zapret-discord-youtube/
 ----------------------------------------------
 Как установить:
 
-1. Скачайте и установите запрет https://github.com/Flowseal/zapret-discord-youtube/
+1. Скачайте и установите запрет https://github.com/Flowseal/zapret-discord-youtube/releases
 2. Скачайте нужный релиз автотеста https://github.com/harbet333/zapret-youtube-Auto/releases 
 3. Поместите папку harbetAutotest в папку с запретом , должно получиться так
 
