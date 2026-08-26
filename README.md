@@ -20,3 +20,5 @@ https://github.com/Flowseal/zapret-discord-youtube/
 test current.bat 
 
 установить автозапуск при старте винды - setup autostart.bat
+
+ИНСТРУКЦИЯ БУДЕТ ДОПОЛНЕНА
