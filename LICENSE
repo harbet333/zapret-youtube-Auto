@@ -22,6 +22,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ---
+This project contains modified files from 
+https://github.com/Flowseal/zapret-discord-youtube, distributed under the MIT License. 
+Original copyrights: bol-van, Flowseal.
 
 This repository contains binary files originating from the project by bol-van,  
 available at: https://github.com/bol-van/zapret/ (licensed under the MIT License).
