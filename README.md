@@ -15,3 +15,8 @@ https://github.com/Flowseal/zapret-discord-youtube/
 
 <img width="250" height="175" alt="image" src="https://github.com/user-attachments/assets/db88be21-4e9f-4c15-8e6e-0452e4a2c657" />
 
+Как запустить:
+
+test current.bat 
+
+установить автозапуск при старте винды - setup autostart.bat
